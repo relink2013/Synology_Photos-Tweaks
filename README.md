@@ -30,6 +30,6 @@ I am not a web developer, most of the issues are simply because I cannot figure 
 ***Custom Icons:***
 Custom made desktop icons. I like having Photos in a SSB so it's more like a desktop app. Since I couldnt find any decent quality icons, I made my own from scratch.
 
--light.PNG (Light background)
--dark.PNG  (Dark background)
--full.PNG  (No background, logo is enlarged to fill entire icon.)
+- light.PNG (Light background)
+- dark.PNG  (Dark background)
+- full.PNG  (No background, logo is enlarged to fill entire icon.)
