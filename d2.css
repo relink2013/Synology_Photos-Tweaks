@@ -327,7 +327,7 @@ div#reactRoot .synofoto-photo-request-dialog textarea.synofoto-photo-request-dia
 }
 
 /* FOLDER TREE BACKGROUND AND TEXT */
-.css-1tkddnr {
+.synofoto-filetree-wrapper .css-1tkddnr {
 	background-color: rgb(29, 29, 42);
 	color: rgb(206, 221, 238);
 }
